@@ -1,7 +1,5 @@
 Mi primera práctica con Git y GitHub.
 
-Mi primera práctica con Git y GitHub.
-
 Nombre: Tatiana
 Curso: Ingeniería de Software
 Fecha: 20 de mayo de 2026
